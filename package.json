@@ -13,6 +13,11 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
+  
+  "engines": {
+    "node": "13.14.0"
+  }
+  ,
   "scripts": {
     "start": "node server.js",
     "b uild": "react-scripts build",
